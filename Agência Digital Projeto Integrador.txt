@@ -1,0 +1,63 @@
+====================================================
+RELATÓRIO FINAL — AGÊNCIA DIGITAL (TEMA 02)
+Estratégia de Conteúdo Avançada
+Data: 26/11/2026, 15:45:53
+Missões concluídas: 12 de 12
+====================================================
+
+🏪 NEGÓCIO ESCOLHIDO
+Nome: Tech Center Assistência Técnica
+Tipo: Assistência técnica
+Descrição:  Empresa especializada em manutenção, conserto e recuperação de celulares, tablets, computadores e notebooks, oferecendo serviços de qualidade, atendimento rápido, preços justos e garantia nos reparos.
+
+----------------------------------------------------
+🎯 MISSÕES PRÁTICAS
+----------------------------------------------------
+[✔] 🎭 Persona
+    → Mariana, 28 anos, trabalha em escritório e utiliza diariamente celular e notebook para atividades profissionais e pessoais. Procura uma assistência técnica de confiança, com preço acessível, rapidez no atendimento e garantia dos serviços. Costuma pesquisar no Google e Instagram antes de escolher uma empresa.
+
+[✔] 🎯 Objetivo SMART
+    → Conquistar 50 novos contatos interessados em serviços de manutenção e conserto de celulares, tablets e computadores por meio do site e das redes sociais, durante os próximos 60 dias, convertendo pelo menos 20 desses contatos em serviços contratados.
+
+[✔] 🗺️ Jornada do Consumidor
+    → Descoberta: O cliente percebe que seu celular está com a tela quebrada, bateria descarregando rapidamente ou notebook lento. Pesquisa no Google ou Instagram por assistência técnica.  Consideração: Encontra a Tech Center, consulta os serviços oferecidos, avaliações de outros clientes, preços e condições de atendimento.  Decisão: Entra em contato pelo WhatsApp, solicita um orçamento, leva o equipamento para avaliação e contrata o serviço.
+
+[✔] 💡 Tópicos de Conteúdo
+    → 5 sinais de que a bateria do seu celular precisa ser substituída.  Notebook lento? Veja como melhorar o desempenho do seu computador.  Tela quebrada: quando vale a pena consertar o celular?  Como proteger seu celular, tablet e computador contra vírus e golpes.  Cuidados essenciais para aumentar a vida útil dos seus aparelhos eletrônicos.
+
+[✔] ✍️ Conteúdo (publicação)
+    →  Seu celular ou notebook está apresentando problemas? Saiba quando procurar assistência técnica! Seu celular ou notebook está com problemas? Conte com uma assistência técnica especializada! Hoje em dia, celulares, tablets e computadores fazem parte da nossa rotina. Utilizamos esses equipamentos para trabalhar, estudar, conversar e realizar diversas atividades. Por isso, quando algum aparelho apresenta defeito, precisamos encontrar uma solução rápida e segura.  A Tech Center Assistência Técnica oferece serviços especializados para cuidar dos seus equipamentos eletrônicos.  Quais serviços oferecemos? Celulares: troca de telas, substituição de baterias, reparos em conectores de carga e manutenção em geral. Tablets: reparos de tela, problemas de carregamento e manutenção de componentes. Notebooks: formatação, limpeza, otimização, troca de teclado, tela e manutenção. Computadores: montagem, manutenção preventiva e corretiva, instalação de programas e melhorias de desempenho. Outros eletrônicos: avaliação e manutenção de equipamentos conforme disponibilidade técnica. Por que escolher uma assistência técnica especializada? Um equipamento com defeito não precisa necessariamente ser substituído. Muitas vezes, um reparo adequado pode recuperar seu funcionamento e prolongar sua vida útil.  Na Tech Center, buscamos oferecer:  Atendimento de qualidade. Avaliação técnica dos equipamentos. Orçamentos transparentes. Serviços com garantia, conforme as condições de cada reparo. Compromisso com a satisfação dos clientes. Não deixe seu equipamento parado! Entre em contato com a Tech Center Assistência Técnica, explique o problema do seu aparelho e solicite uma avaliação. Seu eletrônico merece cuidado especializado. Estamos prontos para ajudar!
+
+[✔] 📢 Distribuição
+    → Instagram: publicação de fotos de serviços realizados, vídeos de reparos, dicas de conservação e promoções.  Google e site: publicação de artigos com dicas e informações sobre manutenção de eletrônicos para atrair clientes que pesquisam por assistência técnica.  WhatsApp Business: atendimento, envio de orçamentos, divulgação de novidades e relacionamento com clientes.
+
+[✔] 🎯 Personalização
+    → Versão A – Público jovem e estudantes:  "Seu celular ou notebook está atrapalhando seus estudos? Não fique na mão! Conte com a Tech Center para recuperar seu equipamento com atendimento especializado e preço justo."  Versão B – Profissionais e empresas:  "Não deixe problemas técnicos prejudicarem sua produtividade. A Tech Center oferece manutenção de computadores, notebooks e dispositivos eletrônicos para manter seus equipamentos funcionando corretamente."
+
+[✔] 🔍 SEO
+    → Palavra-chave principal: Assistência técnica de eletrônicos.  Palavras-chave secundárias: Conserto de celular, manutenção de notebook, assistência técnica de computador, conserto de tablet.  Título SEO: Tech Center | Assistência Técnica de Celulares e Computadores.  Meta description: Assistência técnica especializada em celulares, tablets, computadores e notebooks. Manutenção, reparos e atendimento de qualidade. Solicite seu orçamento!
+
+[✔] ❤️ Engajamento
+    → "Seu celular, tablet ou computador apresentou algum problema? Não espere o defeito piorar! Entre em contato com a Tech Center pelo WhatsApp e solicite seu orçamento."  Pergunta para incentivar a interação:  "Qual equipamento você mais utiliza no dia a dia: celular, tablet, notebook ou computador? E qual problema já enfrentou com ele?"
+
+[✔] 🔄 Iteração
+    → A empresa acompanhará os resultados das publicações e campanhas a cada 15 dias.  Serão avaliados:  Número de visualizações e curtidas nas publicações.  Quantidade de contatos recebidos pelo WhatsApp.  Número de orçamentos solicitados.  Quantidade de serviços contratados.  Publicações que geraram maior interesse.  Com base nos resultados, serão realizados testes com diferentes imagens, vídeos, títulos e chamadas para ação. Os conteúdos que apresentarem melhores resultados receberão maior investimento e divulgação.
+
+[✔] 🚀 Tendências
+    →  vídeos curtos e conteúdos educativos.  Os vídeos curtos estão cada vez mais presentes nas redes sociais e são uma ótima oportunidade para divulgar serviços de assistência técnica.  A Tech Center produzirá vídeos para Instagram Reels, TikTok e YouTube Shorts mostrando:  Antes e depois de equipamentos reparados.  Dicas para conservar baterias.  Cuidados para evitar danos aos celulares.  Demonstrações de manutenção.  Problemas comuns em notebooks e computadores.  Essa estratégia ajudará a aproximar a empresa dos clientes, demonstrar conhecimento técnico e aumentar a confiança nos serviços.
+
+[✔] 🕵️ Concorrência
+    → As assistências técnicas da região geralmente divulgam seus serviços pelo Instagram e WhatsApp, publicando fotos de equipamentos consertados, promoções e informações sobre reparos.  Pontos fortes dos concorrentes:  Atendimento presencial.  Divulgação nas redes sociais.  Variedade de serviços.  Experiência em manutenção de eletrônicos.  Oportunidades para a Tech Center:  Criar conteúdos educativos e vídeos demonstrativos.  Melhorar a presença no Google.  Divulgar avaliações de clientes.  Apresentar informações claras sobre serviços e garantias.  Oferecer atendimento personalizado pelo WhatsApp.  Diferencial competitivo: trabalhar com transparência, qualidade no atendimento, variedade de serviços e conteúdos que ajudem os clientes a cuidar melhor de seus equipamentos.
+
+----------------------------------------------------
+📄 PÁGINA DE CONTEÚDO (mini-editor)
+----------------------------------------------------
+Título SEO: Tech Center | Assistência Técnica de Eletrônicos
+URL amigável: https://seusite.com.br/assistencia-tecnica-eletronicos
+Meta description: Conserto e manutenção de celulares, tablets, computadores e notebooks. Atendimento especializado e orçamento transparente.
+Corpo do conteúdo:
+Seu celular ou notebook está apresentando problemas? Saiba quando procurar assistência técnica! Seu celular ou notebook está com problemas? Conte com uma assistência técnica especializada! Hoje em dia, celulares, tablets e computadores fazem parte da nossa rotina. Utilizamos esses equipamentos para trabalhar, estudar, conversar e realizar diversas atividades. Por isso, quando algum aparelho apresenta defeito, precisamos encontrar uma solução rápida e segura.  A Tech Center Assistência Técnica oferece serviços especializados para cuidar dos seus equipamentos eletrônicos.  Quais serviços oferecemos? Celulares: troca de telas, substituição de baterias, reparos em conectores de carga e manutenção em geral. Tablets: reparos de tela, problemas de carregamento e manutenção de componentes. Notebooks: formatação, limpeza, otimização, troca de teclado, tela e manutenção. Computadores: montagem, manutenção preventiva e corretiva, instalação de programas e melhorias de desempenho. Outros eletrônicos: avaliação e manutenção de equipamentos conforme disponibilidade técnica. Por que escolher uma assistência técnica especializada? Um equipamento com defeito não precisa necessariamente ser substituído. Muitas vezes, um reparo adequado pode recuperar seu funcionamento e prolongar sua vida útil.  Na Tech Center, buscamos oferecer:  Atendimento de qualidade. Avaliação técnica dos equipamentos. Orçamentos transparentes. Serviços com garantia, conforme as condições de cada reparo. Compromisso com a satisfação dos clientes. Não deixe seu equipamento parado! Entre em contato com a Tech Center Assistência Técnica, explique o problema do seu aparelho e solicite uma avaliação. Seu eletrônico merece cuidado especializado. Estamos prontos para ajudar!
+
+====================================================
+FIM DO RELATÓRIO
+====================================================
